@@ -1,0 +1,248 @@
+body{
+    margin: auto;
+    padding: 0;
+    width: fit-content;
+    height: fit-content;
+    font-family: Impact;
+}
+section{
+    margin: 0;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex: 1;
+    padding: 10px;
+    gap: 50px;
+    background-color: navy;
+    width: 600px;
+}
+a{
+    text-decoration: none;
+    padding-left: 3px;
+    padding-right: 3px;
+    color: white;
+}
+nav{
+    margin: 0;
+}
+.p1{
+    margin: 0;
+    color: white;
+}
+footer{
+    text-align: center;
+    background-color: grey;
+    margin: 0;
+    border: 0;
+}
+.s2d1{
+    height: 150px;
+    width: 600px;
+    background-color: navy;
+    margin: 0;
+    display: flex;
+    padding: 10px;
+    border: 0;
+}
+.s2d11{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 10px;
+    height: 150px;
+    width: 300px;
+}
+.p2{
+    margin: 0;
+    color: white;
+    font-size: 25px;
+}
+.p3{
+    margin: 0;
+    color: white;
+}
+.p4{
+    margin: 0;
+    color: white;
+    background-color: lightblue;
+    padding: 5px;
+}
+.s2d12{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    height: 150px;
+    width: 300px;
+    background-color: grey;
+    color: white;
+}
+.s3d1{
+    height: 200px;
+    width: 600px;
+    background-color: white;
+    margin: 0;
+    padding: 10px;
+    border: 0;
+    display: block;
+}
+.s3d11{
+    margin-bottom: 10px;
+    text-align: center;
+}
+.p10{
+    font-size: 20px;
+    margin: 0px;
+}
+.s3d12{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+    height: fit-content;
+    width: fit-content;
+}
+.s3d121{
+    display: block;
+    height: fit-content;
+    width: fit-content;
+    text-align: center;
+}
+.s3d1211{
+    height: 80px;
+    width: 100px;
+    border: 3px solid lightblue;
+    margin: auto;
+}
+.s3d122{
+    display: block;
+    height: fit-content;
+    width: fit-content;
+    text-align: center;
+}
+.s3d1221{
+    height: 80px;
+    width: 100px;
+    border: 3px solid lightblue;
+    margin: auto;
+}
+.s3d123{
+    display: block;
+    height: fit-content;
+    width: fit-content;
+    text-align: center;
+}
+.s3d1231{
+    height: 80px;
+    width: 100px;
+    border: 3px solid lightblue;
+    margin: auto;
+}
+.s3d124{
+    display: block;
+    height: fit-content;
+    width: fit-content;
+    text-align: center;
+}
+.s3d1241{
+    height: 80px;
+    width: 100px;
+    border: 3px solid lightblue;
+    margin: auto;
+}
+.s4d1{
+    height: 150px;
+    width: 600px;
+    background-color: rgb(151, 151, 151);
+    margin: 0;
+    display: flex;
+    padding: 10px;
+    border: 0;
+}
+.p6{
+    margin: 0px;
+    padding: 3px;
+}
+.p7{
+    margin: 0px;
+    padding: 3px;
+}
+.p8{
+    margin: 0px;
+    padding: 3px;
+}
+.p9{
+    margin: 0px;
+    padding: 3px;
+}
+.s4d1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 5px;
+}
+.p11{
+    text-align: center;
+    font-size: 20px;
+    padding: 5px;
+}
+.p12{
+    text-align: right;
+    font-weight: bold;
+    padding: 5px;
+}
+.s5d1{
+    height: 150px;
+    width: 600px;
+    background-color: white;
+    margin: 0;
+    display: flex;
+    padding: 10px;
+    border: 0;
+    justify-content: center;
+    align-items: center;
+}
+.s5d11{
+    height: fit-content;
+    width: fit-content;
+    padding: 15px;
+    display: flex;
+    margin: auto;
+    gap: 20px;
+    background-color: blue;
+    justify-content: flex-start;
+    align-items: center;
+}
+.s5d111{
+    height: fit-content;
+    width: fit-content;
+    display: block;
+    text-align: left;
+}
+.p13{
+    font-size: 15px;
+    color: white;
+    padding: 3px;
+}
+.p14{
+    color: white;
+    padding: 3px;
+}
+.p15{
+    padding: 3px;
+    background-color: blue;
+    border: 2px solid white;
+    text-align: center;
+    color: white;
+}
+.p16{
+    padding: 10px;
+    color: white;
+    background-color: grey;
+    margin: 0px;
+    text-align: center;
+}
